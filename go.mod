@@ -1,3 +1,3 @@
-module github.com/hthl85/conf-gin
+module github.com/hthl85/ginconf
 
 go 1.14
